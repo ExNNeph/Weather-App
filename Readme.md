@@ -1,7 +1,10 @@
 # Weather App
 This is a simple weather app that displays the current weather information for a given city.
 
-##Getting Started
+## Author: 
+**Alexander Kramer**. Current *student* at the ***Technischen Hochschule Mittelhessen**, Germany.
+
+## Getting Started
 To get started with this app, you need to do the following:
 
 1. Clone the repository to your local machine.
